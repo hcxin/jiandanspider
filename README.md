@@ -1,5 +1,5 @@
 # jiandanspider
-### python3 pyQT5实现煎蛋网美女图片下载器
+### python3 & pyQT5实现煎蛋网美女图片下载器
 ```python
 jiandanspider.exe 文件为windows平台可执行文件。
 ```
